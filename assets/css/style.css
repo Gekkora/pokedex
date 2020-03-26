@@ -1,0 +1,19 @@
+*{
+    font-family: 'Press Start 2P' ;
+}
+
+.popo {
+	padding: 10px;
+    border-radius: 10px;
+    font-size: 8px;
+    width: 300px;
+}
+
+.boton {
+    padding: 5px;
+    border-radius: 10px;
+}
+.pokedex{
+    font-family: 'Press Start 2P' ;
+    font-weight: bold;
+}
